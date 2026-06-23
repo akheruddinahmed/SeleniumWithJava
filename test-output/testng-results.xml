@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
-    <line>
-      <![CDATA[hii from reporter print statement]]>
-    </line>
   </reporter-output>
-  <suite started-at="2026-06-22T20:05:57 IST" name="Default suite" finished-at="2026-06-22T20:05:57 IST" duration-ms="22">
+  <suite started-at="2026-06-23T11:34:38 IST" name="Default suite" finished-at="2026-06-23T11:34:47 IST" duration-ms="9631">
     <groups>
     </groups>
-    <test started-at="2026-06-22T20:05:57 IST" name="Default test" finished-at="2026-06-22T20:05:57 IST" duration-ms="22">
-      <class name="launchBrowser.ToLaunchChromeBrowser">
-        <test-method signature="test()[pri:0, instance:launchBrowser.ToLaunchChromeBrowser@3d680b5a]" started-at="2026-06-22T20:05:57 IST" name="test" finished-at="2026-06-22T20:05:57 IST" duration-ms="4" status="PASS">
+    <test started-at="2026-06-23T11:34:38 IST" name="Default test" finished-at="2026-06-23T11:34:47 IST" duration-ms="9631">
+      <class name="launchBrowser.ToLaunchEdgeBrowser">
+        <test-method signature="test()[pri:0, instance:launchBrowser.ToLaunchEdgeBrowser@3d680b5a]" started-at="2026-06-23T11:34:38 IST" name="test" finished-at="2026-06-23T11:34:47 IST" duration-ms="9613" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[hii from reporter print statement]]>
-            </line>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- launchBrowser.ToLaunchChromeBrowser -->
+      </class> <!-- launchBrowser.ToLaunchEdgeBrowser -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
