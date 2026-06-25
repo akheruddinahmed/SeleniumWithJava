@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-06-23T11:34:38 IST" name="Default suite" finished-at="2026-06-23T11:34:47 IST" duration-ms="9631">
+  <suite started-at="2026-06-25T11:38:55 IST" name="Default suite" finished-at="2026-06-25T11:39:06 IST" duration-ms="10559">
     <groups>
     </groups>
-    <test started-at="2026-06-23T11:34:38 IST" name="Default test" finished-at="2026-06-23T11:34:47 IST" duration-ms="9631">
-      <class name="launchBrowser.ToLaunchEdgeBrowser">
-        <test-method signature="test()[pri:0, instance:launchBrowser.ToLaunchEdgeBrowser@3d680b5a]" started-at="2026-06-23T11:34:38 IST" name="test" finished-at="2026-06-23T11:34:47 IST" duration-ms="9613" status="PASS">
+    <test started-at="2026-06-25T11:38:55 IST" name="Default test" finished-at="2026-06-25T11:39:06 IST" duration-ms="10559">
+      <class name="toLearn_WebDriverMethods.ToLearn_fullScreenMethod">
+        <test-method signature="test()[pri:0, instance:toLearn_WebDriverMethods.ToLearn_fullScreenMethod@cd3fee8]" started-at="2026-06-25T11:38:55 IST" name="test" finished-at="2026-06-25T11:39:06 IST" duration-ms="10540" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-      </class> <!-- launchBrowser.ToLaunchEdgeBrowser -->
+      </class> <!-- toLearn_WebDriverMethods.ToLearn_fullScreenMethod -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

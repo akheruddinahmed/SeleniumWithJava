@@ -11,6 +11,7 @@ public class ToLaunchChromeBrowser {
 
 		//create object for ChromeDriver class
 		ChromeDriver driver=new ChromeDriver();
+		
 	} 
   
 }
